@@ -5,7 +5,7 @@ import {Router} from '@angular/router';
   selector: 'lib-libreria-login',
   standalone: true,
   imports: [],
-  templateUrl: `/libreria-login.component.html`,
+  templateUrl: `./libreria-login.component.html`,
   styles: ``
 })
 export class LibreriaLoginComponent implements OnInit{
